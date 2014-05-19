@@ -1,0 +1,5 @@
+<% @bookmarks.each do |bookmark| %>
+
+  <%= link_to bookmark.title, bookmark.url %>
+
+<% end %>
