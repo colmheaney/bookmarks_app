@@ -40,3 +40,4 @@ gem 'spring',        group: :development
 gem 'devise'
 gem 'zurb-foundation', '~> 4.2.2'
 gem 'simple_form', '~> 3.0.0rc'
+gem 'cancan', '~> 1.6.0'
